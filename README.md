@@ -1,5 +1,8 @@
 # nuki-py
 
+![GitHub License](https://img.shields.io/github/license/Kanksu/nuki-py)
+
+
 ## A python library to operate Nuki smart lock
 
 You must have a registered digital key to operate the nuki smart lock.
